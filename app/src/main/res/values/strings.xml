@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SundayTest</string>
+    <string name="api_key">https://api.themoviedb.org/3/movie/550?api_key=04db637c6dd14ad4b2db0e3057618ddd</string>
+</resources>
